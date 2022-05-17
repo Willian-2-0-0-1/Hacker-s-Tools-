@@ -1,7 +1,10 @@
 # Offensive
 
 <img src="https://media3.giphy.com/media/115BJle6N2Av0A/200.gif">
-    
+
+<a href="https://www.linkedin.com/in/willian9/">
+<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="willian9" style="width:42px;height:42px;">
+</a>
 
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Initial Access](#initial-access)
