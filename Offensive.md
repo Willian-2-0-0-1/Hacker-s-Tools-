@@ -1,4 +1,4 @@
-# Offensive
+# Bug Bounty, Pentest, Blue Team
 
 <img src="https://media3.giphy.com/media/115BJle6N2Av0A/200.gif">
 
