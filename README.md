@@ -1,8 +1,7 @@
 # Hackers-Tools
 
 
-# Offensive 
-<a href="https://github.com/Willian-2-0-0-1/Hacker-s-Tools-/blob/main/Offensive.md">Part.2</a>
+# Bug Bounty, Pentest, Blue Team <a href="https://github.com/Willian-2-0-0-1/Hacker-s-Tools-/blob/main/Offensive.md">Part.2</a>
 
 <img src="https://c.tenor.com/FUnjZyMefVQAAAAM/hackintothemainframe-hack.gif">
 
