@@ -1,11 +1,7 @@
-# Offensive 
+# Offensive
 
-This page will contain my bookmark for offensive tools, briefly categorized based on [MITRE ATT&CK Enterprise
-Matrix](https://attack.mitre.org/matrices/enterprise/). Some links and sections on [README.md](README.md) will be
-relocated to this page if it's related to offensive tactics and techniques.
-
-Some tools can be categorized in more than one category. But because the current bookmark model doesn't support
-1-to-many mapping, I will decide a tool's category based on its ultimate goal.
+<img src="https://media3.giphy.com/media/115BJle6N2Av0A/200.gif">
+    
 
 - [Reconnaissance/Discovery](#reconnaissancediscovery)
 - [Initial Access](#initial-access)
