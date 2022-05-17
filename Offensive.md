@@ -1,10 +1,4 @@
-# Offensive <!-- omit in toc -->
-
-<p align="center">
-    <img src="cover.png">
-</p>
-
-<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> <a href="https://github.com/pe3zx/my-infosec-awesome/actions"><img src="https://github.com/pe3zx/my-infosec-awesome/workflows/Ruby/badge.svg" /></a> <img src="https://img.shields.io/github/last-commit/pe3zx/my-infosec-awesome.svg" /> </p>
+# Offensive 
 
 This page will contain my bookmark for offensive tools, briefly categorized based on [MITRE ATT&CK Enterprise
 Matrix](https://attack.mitre.org/matrices/enterprise/). Some links and sections on [README.md](README.md) will be
